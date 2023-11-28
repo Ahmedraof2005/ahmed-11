@@ -1,0 +1,87 @@
+*{
+  margin:0px;
+  padding: 0px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.sec2{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: 800px;
+  align-items: center;  
+  background-color: rgba(0, 0, 0, 0.027);
+
+}
+.sec2 img{
+  height: 800px;
+}
+.sec2 h1{
+  font-size: 60px;
+  color: rgb(31, 31, 77);
+}
+.sec2 button{
+  padding: 10px;
+  color: white;
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+
+
+
+
+
+.sec3{
+display: flex;
+justify-content: center;
+margin: 10px;
+width: auto;
+height: auto;
+}
+.sec3 .text1{
+text-align: center;
+margin: 15px;
+}
+.sec3 h6{
+  font-size: 20px;
+  color: rgba(255, 0, 0, 0.737);
+}
+
+
+
+
+
+
+.sec4{
+  display: flex;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  justify-content: center;
+
+}
+
+
+
+.sec4 div{
+  margin: 10px;
+}
+.sec4 .img1{
+  width: 600px;
+  height: 700px;
+}
+
+.sec4 .img2{
+  height: 700px;
+  width: 400px;
+}
+
+.sec4 .img3{
+  height: 340px;
+
+}
+.sec4 .img4{
+height: 340px;
+margin-top: 20px;
+} 
